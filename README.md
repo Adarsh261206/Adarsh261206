@@ -1,5 +1,3 @@
-# 🚀 Adarsh Sharma
-
 ### 🧠 Building AI Systems • Full Stack Applications • Automation • Cybersecurity
 
 ---
@@ -56,35 +54,7 @@ Built scalable web applications with authentication, APIs, dashboards, and secur
 
 ## 💻 Tech Stack
 
-### 🚀 Core
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
-
-### 🔐 Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![Security](https://img.shields.io/badge/Security-000000?logo=hackthebox&logoColor=green)
-
-### ☁️ Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)![Security](https://img.shields.io/badge/Security-000000?logo=hackthebox&logoColor=green)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
 
 ---
 
